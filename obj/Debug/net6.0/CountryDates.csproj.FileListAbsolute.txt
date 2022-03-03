@@ -1,0 +1,15 @@
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\CountryDates.exe
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\CountryDates.deps.json
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\CountryDates.runtimeconfig.json
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\CountryDates.dll
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\ref\CountryDates.dll
+C:\Projetos de Desenvolvimento\Dev\CountryDates\bin\Debug\net6.0\CountryDates.pdb
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.csproj.AssemblyReference.cache
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.AssemblyInfoInputs.cache
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.AssemblyInfo.cs
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.csproj.CoreCompileInputs.cache
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.dll
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\ref\CountryDates.dll
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.pdb
+C:\Projetos de Desenvolvimento\Dev\CountryDates\obj\Debug\net6.0\CountryDates.genruntimeconfig.cache
